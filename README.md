@@ -1,5 +1,5 @@
 ## Anti-whale ERC20 Token
-// This is a simple ownable token contract that has the basic mint and burn function, and anti-whale settings.
+This is a simple ownable token contract that has the basic mint and burn function, and anti-whale settings.
 
 ### Solidity Version:
 - 0.8.20
